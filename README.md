@@ -10,7 +10,8 @@ Projeto de teste simulando um gerenciamento de conta bancária. Testes desenvolv
 ![conta](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/d54b0f32-2ad7-4098-b124-a0d17d08d603)
 
 - Classe **Runner.java**: Classe para executar testes em JUnit.
-<img width="314" alt="runner" src="https://github.com/mateusmaranhaogit/conta-bancaria/assets/101333760/48092acb-a01a-4e0b-a03c-99c09e65f262">
+
+![runner](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/f331765b-80dd-4c73-bcdf-05f599877f57)
 
 - Arquivo **arquivo_teste.feature**: Contém cenários de teste.
 
