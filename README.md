@@ -23,7 +23,7 @@ Utilize a classe ```Runner.java``` para executar os testes.
 
 ## Resultado 
 
-- Testes dos métodos:
+- Teste dos métodos:
 
 ![teste-feature](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/eeb18a7c-b86d-4e8b-ae52-27b36973a98b)
 
