@@ -6,7 +6,8 @@ Projeto de teste simulando um gerenciamento de conta bancária. Testes desenvolv
 
 ## Estrutura do projeto
 - Classe **Conta.java**: Contém os testes de saque.
-<img width="616" alt="conta" src="https://github.com/mateusmaranhaogit/conta-bancaria/assets/101333760/e9d6e3c1-9397-4960-8f2d-38f8dd22370a">
+
+![conta](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/d54b0f32-2ad7-4098-b124-a0d17d08d603)
 
 - Classe **Runner.java**: Classe para executar testes em JUnit.
 <img width="314" alt="runner" src="https://github.com/mateusmaranhaogit/conta-bancaria/assets/101333760/48092acb-a01a-4e0b-a03c-99c09e65f262">
