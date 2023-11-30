@@ -27,6 +27,6 @@ Utilize a classe ```Runner.java``` para executar os testes.
 
 ![teste-feature](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/eeb18a7c-b86d-4e8b-ae52-27b36973a98b)
 
-- Testes com JUnit:
+- Teste com JUnit:
 
 ![teste-junit](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/fe052f1e-728e-43e5-9c3f-3cf7f369be0c)
