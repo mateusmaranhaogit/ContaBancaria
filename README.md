@@ -24,7 +24,9 @@ Utilize a classe ```Runner.java``` para executar os testes.
 ## Resultado 
 
 - Testes dos métodos:
+
 ![teste-feature](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/eeb18a7c-b86d-4e8b-ae52-27b36973a98b)
 
 - Testes com JUnit:
-<img width="333" alt="teste-2-atividade-af" src="https://github.com/mateusmaranhaogit/conta-bancaria/assets/101333760/db1c5770-2287-49ae-ba49-b3b58cf7ed6c">
+
+![teste-junit](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/fe052f1e-728e-43e5-9c3f-3cf7f369be0c)
