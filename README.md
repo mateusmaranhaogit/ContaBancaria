@@ -13,7 +13,8 @@ Projeto de teste simulando um gerenciamento de conta bancária. Testes desenvolv
 <img width="314" alt="runner" src="https://github.com/mateusmaranhaogit/conta-bancaria/assets/101333760/48092acb-a01a-4e0b-a03c-99c09e65f262">
 
 - Arquivo **arquivo_teste.feature**: Contém cenários de teste.
-<img width="619" alt="feature" src="https://github.com/mateusmaranhaogit/conta-bancaria/assets/101333760/e4cf818d-1ca8-4aa1-8430-65c53706f690">
+
+![feature](https://github.com/mateusmaranhaogit/ContaBancaria/assets/101333760/4918d182-0474-4630-a05a-9cab970b0f37)
 
 ## Executando os testes
 
